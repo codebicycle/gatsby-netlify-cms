@@ -29,6 +29,7 @@ organizers:
       imageAlt: Tom Hanks
       name: Tom Hanks
     - image: /img/michael-dam-258165-unsplash.jpg
+      imageAlt: zzz
       name: zzzz
 seo:
   browserTitle: About | JavaScript Wakanda
